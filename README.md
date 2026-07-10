@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Zohaib 👋
 
-<!--
-**zohaib-math/zohaib-math** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Math Student & Aspiring Data Scientist
+I focus on the intersection of deterministic mathematical frameworks and stochastic machine learning models. Moving from the strict memory management of C++ to the scalable data ecosystems of Python.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: Porting foundational algorithms from C++ to Python.
+- 🌱 I’m currently learning: Numerical Computing, Pandas, NumPy, and Scikit-Learn.
+- 💬 Ask me about: Calculus, Linear Algebra, C++ basics, and optimization problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tooling
+
+**Languages:** ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+
+**Data Science & ML (In Progress):**
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+**Ecosystem & Privacy:**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 📊 GitHub Analytics
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
