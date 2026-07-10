@@ -25,5 +25,5 @@ I focus on the intersection of deterministic mathematical frameworks and stochas
 ---
 
 ### 📊 GitHub Analytics
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=zohaib-math&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zohaib-math&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zohaib-math&layout=compact&theme=dark)
